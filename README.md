@@ -1,7 +1,3 @@
-Here’s a detailed introduction you can use for your GitHub profile:
-
----
-
 👋 **Welcome to My GitHub! I'm Sufyan**  
 *Full-Stack WordPress Developer & SEO Specialist*
 
